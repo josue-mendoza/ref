@@ -10,3 +10,6 @@ How is the staging area different from the working directory and the repository?
   How would branches help?
   WHen you are trying to branch out of the master code and would like to experiment
   They help you try out new features
+
+  How do the diagrams help you visualize the branch structure?
+  They allow us to see how branches and commits work
