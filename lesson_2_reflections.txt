@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+A git folder with settings gets created. This is what we need ot use to start a git project
