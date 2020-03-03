@@ -13,3 +13,8 @@ How is the staging area different from the working directory and the repository?
 
   How do the diagrams help you visualize the branch structure?
   They allow us to see how branches and commits work
+
+  What is the result of merging two branches together? 
+  Why do we represent it in the diagram the way we do?
+
+  WE have one merged branch to master
