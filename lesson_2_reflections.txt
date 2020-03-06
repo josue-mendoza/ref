@@ -18,3 +18,10 @@ How is the staging area different from the working directory and the repository?
   Why do we represent it in the diagram the way we do?
 
   WE have one merged branch to master
+
+  Describe the differences between forks, clones, and branches. 
+  When would you use one instead of another?
+
+  Fork is when you copy someones repo on to your github account.
+  Clone is when you copy a repo to your local machine.
+  Branch is when you start making changes off a working copy. this way you don mess with the master copy
